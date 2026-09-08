@@ -1,0 +1,355 @@
+{
+  "collectedAt": "2026-09-08T13:48:16.763Z",
+  "items": [
+    {
+      "id": "crwv",
+      "quote": {
+        "price": 95.97,
+        "changePercent": 7.4,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:16.000Z",
+        "collectedAt": "2026-09-08T13:48:14.479Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/CRWV.O/total"
+      },
+      "news": [
+        {
+          "title": "엔비디아, 'IPO 최대어' 코어위브 주식 매입 계획 - 미주조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDNxZTlVNElnZHdtWVdzX3FXLXlVeU1vVHQ4VE5oMm8ySGtBUHNScEtJMlg5QWV0bkpZODZ6Q2NRWUcwb1FzNThJZnFFeldKUFg2TU9FbEV4ZEJSTVVvYnVyWTV5aFJTYmtLRmc3U1ZTd2huNFNPaWFFb0xBdTdFazBZbUY0N0NyaUpGMlFtMzhlZk1JbVZmT1lOTHA1a0ZoQ19ZRmxPRTFRN2N1bGNybnVIVGtaTUZSN1NaSVVyRUVzSlhNWHFwMUhn?oc=5",
+          "publisher": "미주조선일보",
+          "publishedAt": "2026-09-06T15:26:22.000Z"
+        },
+        {
+          "title": "델, Nvidia Vera Rubin NVL72 랙을 CoreWeave에 공급하며 주가 1.4% 상승 - Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnZwVmRjVHRvaXl1RW04UUVhVmg5N1pvWjhUZWsyZkZjUzZjT2pWTm9xcnlsU3I4NUdBRVBqRldZdF9VSWROVVBnY2lNNXFxRml6V0FoTFY4d1A4WlFkbDFFME5JLWpMNW5jTEE3WF9fOGhoaXpuY2lEM0NLNlRDQ2tpamxKSVByZEpzLU9sOFU?oc=5",
+          "publisher": "Traders Union",
+          "publishedAt": "2026-09-05T15:25:24.000Z"
+        },
+        {
+          "title": "CoreWeave(CRWV) 주가는 매출 기준으로는 저평가된 것으로 보이지만, 전반적인 시장 동향을 고려하면 신중한 접근이 필요하다 - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1lMTUFiSXlUSFhOV2k5YV93MjRVUXlid0VvVW1NTGx4Wk5sVXJmUUtCUVZVeld1REM0SGZ2Ui1DZDVCSktFUGNuQlpjS29WbGFmYnNmQ0l4My1kM3BqSVI4Y2tOSHE3c2FFN3lobFFjSUU2aDdWNmUyYlhDOGw1cURxaGV5NUpVZE5zQXFjR18wT1JCSHfSAZYBQVVfeXFMTW9ZTE1BYkl5VEhYTldpOWFfdzI0VVF5YndFb1VtTUxseFpObFVyZlFLQlFWVXpXdURDNEhmdlItQ2Q1QkpLRVBjbkJaY0tvVmxhZmJzZkNJeDMtZDNwaklSOGNrTkhxN3NhRTd5aGxRY0lFNmg3VjZlMmJYQzhsNXFEcWhleTVKVWROc0FxY0dfME9SQkh3?oc=5",
+          "publisher": "simplywall.st",
+          "publishedAt": "2026-09-04T12:44:35.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:15.003Z"
+    },
+    {
+      "id": "nbis",
+      "quote": {
+        "price": 237.04,
+        "changePercent": 4.7,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:16.000Z",
+        "collectedAt": "2026-09-08T13:48:14.479Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/NBIS.O/total"
+      },
+      "news": [
+        {
+          "title": "Why Is Nebius Stock Up 245% in the Past Year? - TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rel93QmhEeV9uMVdsVzV0YUN0aHhuMVN1a2RQQ09lVXpHbmw0Q3FPME9leTBPajd3NlBuSFBqa3NRYzdRNFdRZTN0cWhVQkU5Nl9MS3FaVWVaYm1ITkk4d29EQVkzeXJZMm5jczRKWXBZbE5ZVlJQNFJBTzdWeVU?oc=5",
+          "publisher": "TIKR.com",
+          "publishedAt": "2026-09-08T12:33:45.000Z"
+        },
+        {
+          "title": "파워볼 요율 양방 : 새로운 아이디어와 접근법 - Histoire pour tous",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnNWZGJOM1BUOWJLOFZaUE9DUUhkSDlRd1NrV0lFVXdveXlFQS1TTm15SWN4U2NObEJhbDM1TlR6NDdiUVJObTBQWTBOMEt3SUl6VnpIX2N6eXBGYXhfRGdvbk5BTlFUUEF1d3hzRWN4VW9LZU81d3pxQ082ZUhYak5zV05GUThEVnFHNVhJdzNJYk1IdTgyMkpvU0h3QnRobVE3T0hPWjhNWFRHQ2pYdzFOOGdqN0U?oc=5",
+          "publisher": "Histoire pour tous",
+          "publishedAt": "2026-09-05T09:33:20.000Z"
+        },
+        {
+          "title": "Equifax Inc (EFX) 주식 움직였습니다 하락 7.02%에 9월4일: 투자자가 알아야 할 정보 - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkxKVmhXZjJ0ZnAxakFYOFlUeVhicVJ2M1d0YURoVURoR2NsaDdMek00SVZ1TWxPNFlPcGNxVExLVmVIUXZIa29iT214NkZCSlBUdFQ2alNnenhENHF6Y0lfekJXbGZ0RDN4cmtfSElZTUxqS3VTaVJMVzRUZ21WQUptd0tVNEROWEloWVF3?oc=5",
+          "publisher": "TradingKey",
+          "publishedAt": "2026-09-04T19:16:25.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:14.908Z"
+    },
+    {
+      "id": "alteogen",
+      "quote": {
+        "price": 277000,
+        "changePercent": -3.15,
+        "currency": "KRW",
+        "tradedAt": "2026-09-08T07:10:15.000Z",
+        "collectedAt": "2026-09-08T13:48:14.475Z",
+        "marketStatus": "CLOSE",
+        "sourceUrl": "https://m.stock.naver.com/domestic/stock/196170/total"
+      },
+      "news": [
+        {
+          "title": "[주식] 현대약품 24% 급등...페니트리움·큐리언트는 11%대 하락 - 히트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aYUwtekk0a2VnNFJDOUlZSEpXc0pnamNoa2FvYnFZWF9rUlB3cE9IcUI5cm0tMXNycHJwZmgxcGdnYUk1aG5mdWRsOWdocElKWllsQnhCQXF0aFlrLVpRTVlOMmdBdlRrMUQw?oc=5",
+          "publisher": "히트뉴스",
+          "publishedAt": "2026-09-08T09:07:07.000Z"
+        },
+        {
+          "title": "알테오젠 8,000원 하락 마감, 외국인·기관 수급 엇갈림…거래량 변화 (196170, 알테오젠, 주가, 외국인, 기관, 2026년 9월 8일 월요일) - minsimnews.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qQllWUzlaQXpBR1ZhbDg5TUwyY3hac3hMLXZxUDllZGplWXBidVdlWWxFV3RCMGVzME1FSUVKVjFoaFNIV0N6TzNUUDdYaU5xT29PMmRrRzl2bzVTUnZDNGVpTFFRbDM3WDB4VA?oc=5",
+          "publisher": "minsimnews.com",
+          "publishedAt": "2026-09-08T07:15:54.000Z"
+        },
+        {
+          "title": "126억원 순매수 주성엔지니어링, 코스닥 기관 1위 - tokenpost.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PNGZSOWZmSmwwYWMyYzlfa1ZiS09sMlFaamxUUG5FSGJ6c1RaRFZNX1JXRjR3QnVXZG1aVkZ1NlV4MmZzVGFWQldFV1pnajlsa2prdkZR0gFbQVVfeXFMT1Z3SlduNDRUOWtONW1XUHJSNVJPS0NXQXVuUGRNQUlQVzdqR181eGNoNzdVTVBXSXJjWFlvX2ZubWFvX20tVTVMSkpwQ1d5d2hnZFJVcTBGTFJwcw?oc=5",
+          "publisher": "tokenpost.kr",
+          "publishedAt": "2026-09-08T07:03:54.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:15.173Z"
+    },
+    {
+      "id": "hynix",
+      "quote": {
+        "price": 1793000,
+        "changePercent": 0.56,
+        "currency": "KRW",
+        "tradedAt": "2026-09-08T07:10:21.000Z",
+        "collectedAt": "2026-09-08T13:48:15.184Z",
+        "marketStatus": "CLOSE",
+        "sourceUrl": "https://m.stock.naver.com/domestic/stock/000660/total"
+      },
+      "news": [
+        {
+          "title": "SK하이닉스 ADR '절세의 역설'…수수료가 배당세 감면액 웃돌 수도 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwX3N0aDc0amdnX1hsdTQyNkh6bG9ZcUY3YUFFeDduU2dKcVBxM2hXU1FjcFl2WEZ2dnJqN08zU3RVQl8xNzVFTGR1V1kxc1ZHUDBIWk9aajdHcmk4?oc=5",
+          "publisher": "뉴스핌",
+          "publishedAt": "2026-09-08T06:57:00.000Z"
+        },
+        {
+          "title": "실적 눈높이 올라간 이 종목 ‘사자’ [주식 초고수는 지금] - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95M1VpazFkT0szdEkxNmY0a05PemtzeXlqWkRIYm5aT0pnektSWTZmcklHSURGQWR2V1JWUV90TXNfSXBveC1idWZRX1MxWGNjMFE?oc=5",
+          "publisher": "매일경제",
+          "publishedAt": "2026-09-08T06:39:30.000Z"
+        },
+        {
+          "title": "반도체株 불씨 살린 ‘GPT-6’…상위 1%, SK하닉·삼전 쓸어담았다[주식초고수는 지금] - 서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jWmJSX0RNRnFtR1hNZTR3ZTFDUHJkQV9pSWYwbnZZTF9BR3pReFQzQk1qYy1wb1psUDEzWURLZXdDRnpxZWVYMFVqOVVBZXJlVGfSAVNBVV95cUxQSXZDZG9wUW5xV2RNTTNKR0JpOTk4RzdiLTNBa0lNZW9ZdUs3MGVNWS1KQXpoZm1jMU83a3YzZmJGN3RUVGlrS3k1V21MQjV4LVNGQQ?oc=5",
+          "publisher": "서울경제",
+          "publishedAt": "2026-09-08T02:50:33.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:15.782Z"
+    },
+    {
+      "id": "micron",
+      "quote": {
+        "price": 1020.08,
+        "changePercent": 0.34,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:16.000Z",
+        "collectedAt": "2026-09-08T13:48:15.185Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/MU.O/total"
+      },
+      "news": [
+        {
+          "title": "마이크론(MU) 주가는 실적 발표에도 합리적인 수준을 유지하고 있는 반면, 전반적인 주가는 과열된 양상을 보이고 있다 - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEhhNEdSZ1UxT3FsZmNVcGxkLVd1SEc3cHFoZ05oWFBXbVVsd2NSeGoyZ25DaFNpV09EcDNIOXJqVHN6eURjMmJ4MFF0cnZXVkNlOGtidGdNTTRTRE9SaFBjdzV2M3NpRDN6N2E3RXpibE9fbl91SFhqZm9xUkNKeGxsZnhuRUp1elluSHVFQ1dpUUtkSmV6dFhjVHFXVXdJZEdLN2Z30gGmAUFVX3lxTE1USGE0R1JnVTFPcWxmY1VwbGQtV3VIRzdwcWhnTmhYUFdtVWx3Y1J4ajJnbkNoU2lXT0RwM0g5cmpUc3p5RGMyYngwUXRydldWQ2U4a2J0Z01NNFNET1JoUGN3NXYzc2lEM3o3YTdFemJsT19uX3VIWGpmb3FSQ0p4bGxmeG5FSnV6WW5IdUVDV2lRS2RKZXp0WGNUcVdVd0lkR0s3Znc?oc=5",
+          "publisher": "simplywall.st",
+          "publishedAt": "2026-09-08T01:34:43.000Z"
+        },
+        {
+          "title": "트렌드포스: 마이크론 2Q26 범용 DRAM 매출 전분기 대비 65.5% 증가, CXMT 매출 99.3% 증가 - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcGdvQjNwQzZ6VW1WV1psaUtWbDllTXFYZTZwLW1CTFVSU1k2aC14TzdTQXdoc2JadHZyaWdCcGhGNF9nZnVlNF93UjFiV2daRkY0VjJKWTV5V2xmMEZZaWVFS2o3eW9RaG5RX1RaLW9BWVU4T1NKb1VUMkE3b1VQaThvTW9TbGFCbk4zZGVXa2V4WHJscmh4MG52ZDdmWDFmeUt2dk83MkZJMzV5WkRSZzQxSElBczZBa1d5SzNhMjI1dDJmT2xQbmRqUlREdE9zZmFtbHRBUk13TFBhYU5MdmJlQTN2Nl9ydzBIcnVNYks5YU5k?oc=5",
+          "publisher": "TradingKey",
+          "publishedAt": "2026-09-06T22:43:00.000Z"
+        },
+        {
+          "title": "마이크론의 대만 노사 분쟁 계속 격화: MU 및 HBM 공급에 어떤 의미인가? - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM0NxZC1qR3Z2YnZjRV8xNzNUeXh1a3VvZTE0S2gydjZraUxyQjVKeWt4X3VGODhGczhacFRuOW5MR0pfRE5wSXVRanVRSnNpM2UySzQ5SVRUbDV3amVTN0VuSVVfOFNVblJEZ3dsVjhuZHc2bzdUZXF5bEM0OGpDcjB3SFNwbFZjSWtSR09QeW9pMm5ncWxFRWVRdUpDclZ2VnpZazRoZVNnLTFlNllwT2pkVWFjbmtGWmpzUFBuS1pucEtkNTZERlpyRmk?oc=5",
+          "publisher": "TradingKey",
+          "publishedAt": "2026-09-06T15:20:00.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:15.561Z"
+    },
+    {
+      "id": "amd",
+      "quote": {
+        "price": 491,
+        "changePercent": 2.81,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:17.000Z",
+        "collectedAt": "2026-09-08T13:48:15.197Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/AMD.O/total"
+      },
+      "news": [
+        {
+          "title": "사우디의 AI 사업 확장에도 불구하고 AMD(AMD) 주가는 20% 저평가되었을 수 있다 - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPS2pnLVAydWJTLXNralUwc2dQeWZhS2JaMFFqOW15dUNjTjBCR2wyUEMxd3lWSzBKOHc2N0ZMYTVoT2FVQkpWaDBRNDR6VUVXNzM2bEtxOXhIRmNTMnJPMXRibWN4aEVWcnB2NXlqRU9CQnJQUWhMYzZjdG51RWxkaXAzY0NoWjREc2dxRjk5TkNqaEs5eHJhQWtVTU1QRkVucTFvTlg0aEFvNjI3R0HSAa4BQVVfeXFMT0tqZy1QMnViUy1za2pVMHNnUHlmYUtiWjBRajlteXVDY04wQkdsMlBDMXd5VkswSjh3NjdGTGE1aE9hVUJKVmgwUTQ0elVFVzczNmxLcTl4SEZjUzJyTzF0Ym1jeGhFVnJwdjV5akVPQkJyUFFoTGM2Y3RudUVsZGlwM2NDaFo0RHNncUY5OU5DamhLOXhyYUFrVU1NUEZFbnExb05YNGhBbzYyN0dB?oc=5",
+          "publisher": "simplywall.st",
+          "publishedAt": "2026-09-05T21:39:46.000Z"
+        },
+        {
+          "title": "Advanced Micro Devices(AMD), 투자자들이 지금 다시 묻는 이유는? - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZlpKNkd1eUl0RE9zMTVObHd4a2JiZURjYnh1RkJVOFJ6cDd3WXR3eTVucmEzTUlUcUU2d0lZMnNtR0xWV2JoR0hSZzloY3d6VUxkeW11dVF3UV84TlJ6MXBRMmd4TFZic2l1VzRCTTcyMXljNUVOWUNQWF9tWkF4M202QzJ0QzdCNW04dFJLUFlEY3ZRd2lMa0RvaEVmZmJVOTRVLUltWknSAa4BQVVfeXFMTzljY0RDTVlGTHpEbnJQU3dVMFJsOFBTRHlucHZ0cHNxWjBiSnR2RktvUXJFNkR5XzlvWlRoSmhYQnR0eldqaW1SOUxTQkRZeHk5eDZYcm9pNmZHV0ViVFpacklMX1cwWlRVV1MxRF94VjlySVl4bDJzQjEwbFNCTm9FRFFLbjNNYkp6N25XMjNrYXp4WTQzcDBYMHhxZjhNaV9lcTJTOWtDbDcyV1BB?oc=5",
+          "publisher": "simplywall.st",
+          "publishedAt": "2026-09-05T00:16:40.000Z"
+        },
+        {
+          "title": "Advanced Micro Devices Inc (AMD) 주식 움직였습니다 상승 3.51%에 9월4일: 투자자가 알아야 할 정보 - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUp0VElCRTlZUVhNa1VWSWZyVmtMQzJnY0I1RElJU3pXbGRHUmxpQnA3bmZiLTlxQnVybFpsQjNockV6NTJDT3B3QV9uMFpySV9wc3B3UUV6UlJOU011T2xDOXhicU1aZWVTTWJteTZSUzN3WjQ1MnV4WDFZdHNYbmV2R0VaNzgzbXgtR1dn?oc=5",
+          "publisher": "TradingKey",
+          "publishedAt": "2026-09-04T14:16:57.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:15.531Z"
+    },
+    {
+      "id": "asts",
+      "quote": {
+        "price": 64.81,
+        "changePercent": 4.01,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:17.000Z",
+        "collectedAt": "2026-09-08T13:48:15.799Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/ASTS.O/total"
+      },
+      "news": [
+        {
+          "title": "ASTS, 하루 만에 천국과 지옥… 우주 기지국의 미래는 살아있을까 [틈트미 미국 주식] Detention (1JpPoxU8Lm) - Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNQjhyM1Q0dmJCSHZxY0VoZlE1N0ZHLVNkMGtIaUU4OXdXdWRIemU0aTlWa1NPbHM3a2phcjJLOXd6OVdOSElnb1lKMDQ0TXhCVGQ3dGVNU2tJbzQ?oc=5",
+          "publisher": "Mshale",
+          "publishedAt": "2026-09-06T21:05:10.000Z"
+        },
+        {
+          "title": "AST SpaceMobile(ASTS), 위성 서비스 확대 및 파트너십을 강조한 긍정적 분석 보고서에 힘입어 7.3% 상승 - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTktkeHlETnhCem9Qbl9wbzNTdHlCSGdkUWM3dzJ5MmFqYnBkQjdaTXRZWGNtVUtQekRBRV94eXhXYnV2S0szcEZ5ZXBfaHk3OWFtc2NIa3lKRTYxWWFDdGNhSXBRMWp2V0ZtbG5lSFRkZ05MaS14N05KSW5RMDhGeU03SER5SDJUaHZ4QTlGbDJWS1FheUFsOEtLMXLSAZwBQVVfeXFMTk5LZHh5RE54QnpvUG5fcG8zU3R5QkhnZFFjN3cyeTJhamJwZEI3Wk10WVhjbVVLUHpEQUVfeHl4V2J1dktLM3BGeWVwX2h5NzlhbXNjSGt5SkU2MVlhQ3RjYUlwUTFqdldGbWxuZUhUZGdOTGkteDdOSkluUTA4RnlNN0hEeUgyVGh2eEE5RmwyVktRYXlBbDhLSzFy?oc=5",
+          "publisher": "simplywall.st",
+          "publishedAt": "2026-09-06T03:23:45.000Z"
+        },
+        {
+          "title": "AST SpaceMobile(ASTS) 주가는 지난 3년간 16배 급등한 이후 프리미엄을 기록하며 거래되고 있다 - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSkN4M2tGazdJZFR2RkhQTjBGUjI2SGJjVHdjR0dUWE12Q2Z4RC1TLWs5dGdMOVNYaEExUW5DVlpxZE5HZjVhMWQ2LVM0c2VFSGVXN0hGYnphZG9kdkNVUm4yYno0RzMxazRCUnhFVDk1UGk2YVFOMEkzT1l1aGdydVFmSjRUMGYwSUh4NHZINkM0bC1PUUxSQXdJVknSAZwBQVVfeXFMTkpDeDNrRms3SWRUdkZIUE4wRlIyNkhiY1R3Y0dHVFhNdkNmeEQtUy1rOXRnTDlTWGhBMVFuQ1ZacWROR2Y1YTFkNi1TNHNlRUhlVzdIRmJ6YWRvZHZDVVJuMmJ6NEczMWs0QlJ4RVQ5NVBpNmFRTjBJM09ZdWhncnVRZko0VDBmMElIeDR2SDZDNGwtT1FMUkF3SVZJ?oc=5",
+          "publisher": "simplywall.st",
+          "publishedAt": "2026-09-04T20:30:42.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:16.100Z"
+    },
+    {
+      "id": "hanmi",
+      "quote": {
+        "price": 244500,
+        "changePercent": 1.66,
+        "currency": "KRW",
+        "tradedAt": "2026-09-08T07:10:18.000Z",
+        "collectedAt": "2026-09-08T13:48:15.795Z",
+        "marketStatus": "CLOSE",
+        "sourceUrl": "https://m.stock.naver.com/domestic/stock/042700/total"
+      },
+      "news": [
+        {
+          "title": "[시선강탈] 태웅 vs 한미반도체 vs 티에스이, 공략법은? - Nate News",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LSUwwZEFoYmFZVGQ2ZzE2TjhFLU91VmFocXNlcEhJajdxNFdwZkJvQUFTdjNHZUxhNFpRZVd4eFZUZDhJNXpIQ2FPVG9oamZVZXh5ekp4eHdTQTduU055Vml6NlQtbEhHUFdlTHVkenZPSHpvSmdaSw?oc=5",
+          "publisher": "Nate News",
+          "publishedAt": "2026-09-08T13:20:00.000Z"
+        },
+        {
+          "title": "[시선강탈] 태웅 vs 한미반도체 vs 티에스이, 공략법은? - 머니투데이 - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ueDRYVHN6T1hPMDBIQjZPeE55S2twWXhHLTl3RWpZTmhOTndva2FKdFJ6cnVCRHJyek1oZFlDZnc3UmFUZUFrdWFfQ3hmOWd1R3FIajg3RW5HRXo0dVNkSWRPWm4wVDFS0gFuQVVfeXFMTWJfTlV1X1ZFcGpiOGVwTEtlRnd6ZDlvT2JjX0JYQUVUandfc1NZMi1DQ2tLV1RvU053cmZCNUF6Q1dGNU1MMHdKUF9ZVXI0NjNNcWoyaFVLVG5ZLXNuR0Nvbk94SHc5V0RNZXdqNmc?oc=5",
+          "publisher": "머니투데이",
+          "publishedAt": "2026-09-08T13:19:44.000Z"
+        },
+        {
+          "title": "[수급분석] 미국 원전 8기 건설 소식에 두산에너빌리티·현대건설 동시 강세 (2026.09.08) - 네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3d5OGZwSEprVklWaE9MN0VCaTZuVFlPRnpJZU54Wi1iYXFCLVJvaVF2QWpVcG5ZbjZxRVFHR3E1TVFQbkp5RmRNTHFCRktxeDg3aV80NTJvVUtoSDdYUWY4bUlTU214YURzX3BBYzRkdzRmbm13OVBYV0lWLWlrWUdSMHN5Y3ZYMUE?oc=5",
+          "publisher": "네이버 프리미엄콘텐츠",
+          "publishedAt": "2026-09-08T09:31:00.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:16.238Z"
+    },
+    {
+      "id": "rklb",
+      "quote": {
+        "price": 65.04,
+        "changePercent": 1.21,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:16.000Z",
+        "collectedAt": "2026-09-08T13:48:15.797Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/RKLB.O/total"
+      },
+      "news": [
+        {
+          "title": "Why Is Nebius Stock Up 245% in the Past Year? - TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rel93QmhEeV9uMVdsVzV0YUN0aHhuMVN1a2RQQ09lVXpHbmw0Q3FPME9leTBPajd3NlBuSFBqa3NRYzdRNFdRZTN0cWhVQkU5Nl9MS3FaVWVaYm1ITkk4d29EQVkzeXJZMm5jczRKWXBZbE5ZVlJQNFJBTzdWeVU?oc=5",
+          "publisher": "TIKR.com",
+          "publishedAt": "2026-09-08T12:33:45.000Z"
+        },
+        {
+          "title": "Reddit Stock Soars Baird Says Renewal Risk Is Already Priced In - TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbGxubUFFSWZjVDNrUFdQSHJmYzVZdTFVVlB0bk5GTUoyZDdUbVJ5WWlUTDRTTmllSzRwTHc3V3d0WGs0QzJWbExYM19XNENISkc3blZSYTUyNk53enU5QWY2cHRWVU5iYmRKNEt4QW0zUmZlc2hlWTBFcnlFVkJmc1M4WloxR09aRkRZ?oc=5",
+          "publisher": "TIKR.com",
+          "publishedAt": "2026-09-08T12:17:32.000Z"
+        },
+        {
+          "title": "Why Is Archer Aviation Stock Down 58% From All-Time Highs - TIKR.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQWljaEFrX3BsQ2FPODl5anBsTWxPQ2hOOW00eVlhUTc0WWtPcmdvMy1EYWpjQ0V6akhINzY4enVoNDNOOEJNZUdweUExSURTLTVlNHVWaDQzcm5tdjJ6aUg4OG9QOThwUXJ0TFVaUlR4NGJzUVg2X1Vhcjc3OURrMFRVeEZvRWpMcHp1R0Q0SGlkVDg?oc=5",
+          "publisher": "TIKR.com",
+          "publishedAt": "2026-09-08T12:17:32.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:16.186Z"
+    },
+    {
+      "id": "nvda",
+      "quote": {
+        "price": 229.31,
+        "changePercent": -0.46,
+        "currency": "USD",
+        "tradedAt": "2026-09-08T13:48:18.000Z",
+        "collectedAt": "2026-09-08T13:48:16.264Z",
+        "marketStatus": "OPEN",
+        "sourceUrl": "https://m.stock.naver.com/worldstock/stock/NVDA.O/total"
+      },
+      "news": [
+        {
+          "title": "엔비디아 사상 최고가 다시 뚫나? GPT-6 아스트라가 불붙인 랠리 - 코인리더스",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CYmxlUDVsX2lBRE1tbGpBYnJSNDYwQWJRVEgzdXVLdEZtZjJPcFc3WFJ6dkhGZmdNNGpXQmRZWERPWXgtRExJZGhR?oc=5",
+          "publisher": "코인리더스",
+          "publishedAt": "2026-09-08T10:13:00.000Z"
+        },
+        {
+          "title": "젠슨 황, 임대 22% 급등…엔비디아 구형 칩 여전히 수익 - BeInCrypto",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uLXBHVGN1WUVqdGxsbHN6Zm9neDNUc1dMNHRQdWVseHhzNDQtV3lUeXQ0TzZJbl9IVnVxcmVzajZyVGxtMmdfdDJORFNIdnpHSS1fOVJqMGoyWW1RUWhHSk51bEFsNUpxZW1ENndB?oc=5",
+          "publisher": "BeInCrypto",
+          "publishedAt": "2026-09-08T07:40:11.000Z"
+        },
+        {
+          "title": "엔비디아(NVDA), 231달러 저항 돌파 '눈앞'...과열 딛고 250달러 고지 도전 나설까 - 코인리더스",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5sY2dyX0l6dGRNampHMk1iMmt1dnhaVUE4R3dWcFk5Wi1pSFVwVGNVMWRIQUdGdWRmTlNLekJqdHRRSmhrcW9HVXBB?oc=5",
+          "publisher": "코인리더스",
+          "publishedAt": "2026-09-07T15:30:00.000Z"
+        }
+      ],
+      "quoteError": false,
+      "newsError": false,
+      "newsCollectedAt": "2026-09-08T13:48:16.763Z"
+    }
+  ]
+}

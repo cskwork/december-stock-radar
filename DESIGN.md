@@ -1,0 +1,2 @@
+# Readable investment notebook
+Surface: Operate / Read. White paper, dark ink, deep evergreen selection, quiet warm-gray canvas. Large Korean typography, tabular numerals, generous leading. A ten-row comparison ledger on desktop; stacked readable summaries on mobile. Selection opens an in-page research pane with thesis, counterargument, dated sources, and recent headlines. One restrained fade for pane changes, respecting reduced motion. No decorative chart, invented return, or oversized marketing hero.

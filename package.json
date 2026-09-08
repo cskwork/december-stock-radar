@@ -1,0 +1,27 @@
+{
+  "name": "december-stock-radar",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3106",
+    "build": "next build",
+    "start": "next start --port 3106",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "typecheck": "tsc --noEmit",
+    "refresh:seed": "node --experimental-strip-types scripts/refresh-seed.ts"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "lucide-react": "^0.468.0",
+    "fast-xml-parser": "^5.3.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0"
+  },
+  "type": "module"
+}
