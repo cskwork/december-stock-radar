@@ -4,7 +4,7 @@ A Korean dashboard that tracks ten US and Korean stocks through 2026-12-31. It s
 
 ## Problem
 
-Stock-pick posts rarely keep their reasons, sources, and dates together, and they go stale quickly. This app keeps a fixed list of ten stocks (6 US, 4 KR) on one screen. Observed market data (quotes, headlines) is kept separate from the dated, source-linked analysis (`thesis`, `risk`, `watch`). Every number carries its own timestamp, and failed or stale data is labeled instead of hidden.
+Stock-pick posts rarely keep their reasons, sources, and dates together, and they go stale quickly. This app keeps a fixed list of ten stocks (7 US, 3 KR) on one screen. Observed market data (quotes, headlines) is kept separate from the dated, source-linked analysis (`thesis`, `risk`, `watch`). Every number carries its own timestamp, and failed or stale data is labeled instead of hidden.
 
 ## Architecture
 
@@ -15,15 +15,15 @@ flowchart LR
     NKR["Naver mobile API<br/>m.stock.naver.com (KR)"]
     GN["Google News RSS<br/>(14-day query)"]
   end
-  CRON["Vercel Cron 23:00 UTC<br/>vercel.json"] -->|"Bearer CRON_SECRET"| RC["/api/cron<br/>app/api/cron/route.ts"]
+  CRON["Vercel Cron 23:00 UTC<br/>vercel.json"] -->|"Bearer CRON_SECRET"| RC["GET /api/cron<br/>app/api/cron/route.ts"]
   RC -->|"revalidateTag('december-market')"| CACHE[("Next data cache<br/>unstable_cache, 24h<br/>lib/market.ts")]
   CACHE -->|"miss / revalidate"| COL["collectMarket<br/>lib/collect.ts<br/>batches of 3, 12s timeout"]
   COL --> NUS & NKR & GN
   COL --> NORM["normalizeQuote / normalizeNews<br/>lib/normalize.ts"]
   SEED[("data/market-seed.json<br/>last committed snapshot")] -->|"per-stock fallback"| COL
   RES[("data/research.json<br/>ranks, theses, sources")] --> PAGE
-  CACHE --> PAGE["/ (server)<br/>app/page.tsx"] --> UI["Dashboard (client)<br/>components/dashboard.tsx"]
-  CACHE --> API["/api/market"] --> UI
+  CACHE --> PAGE["page / (server)<br/>app/page.tsx"] --> UI["Dashboard (client)<br/>components/dashboard.tsx"]
+  CACHE --> API["GET /api/market"] --> UI
   REVIEW["Daily editorial review<br/>DAILY_REVIEW.md, run outside this repo"] -->|"edits + redeploy"| RES & SEED
 ```
 
